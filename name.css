@@ -1,0 +1,35 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  h1 {
+    font-size: 464%;
+    }
+    i {
+    font-size: 214%;
+    }
+    img {
+    width: 99.5%;
+    }
+    .division0 {
+      background: #d9d9d9; 
+      margin: 5%; 
+      padding: 2%;
+      text-align: center;
+    }
+    .division1 {
+      background: white;
+      margin: 2%;
+    }
+    .division2 {
+                text-align: left; 
+                margin-top: 0%;
+                margin-bottom: 0%;
+                margin-left: 21%;
+                margin-right: 21%;
+    }
+   body{
+    background-image: url("/assert/gettyimages-1228407694-612x612.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
